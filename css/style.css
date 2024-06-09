@@ -294,12 +294,12 @@
 
 
 .alert-green {
-    background-color: rgb(66, 200, 66); /* 背景顏色設為橘色 */
+    background-color: rgb(142, 238, 142); /* 背景顏色設為橘色 */
     color: white; /* 文字顏色設為白色 */
 }
 
 .alert-blue {
-    background-color: rgb(90, 83, 241); /* 背景顏色設為橘色 */
+    background-color: rgb(165, 161, 248); /* 背景顏色設為橘色 */
     color: white; /* 文字顏色設為白色 */
 }
 
