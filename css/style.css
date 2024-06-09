@@ -304,7 +304,7 @@
 }
 
 .alert-dark {
-    background-color: rgb(238, 255, 131); /* 背景顏色設為橘色 */
+    background-color: rgb(255, 131, 236); /* 背景顏色設為橘色 */
     color: white; /* 文字顏色設為白色 */
 }
 
