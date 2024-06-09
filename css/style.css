@@ -294,6 +294,6 @@
 
 
 .alert-green {
-    background-color: green; /* 背景顏色設為橘色 */
+    background-color: rgb(66, 200, 66); /* 背景顏色設為橘色 */
     color: white; /* 文字顏色設為白色 */
 }
