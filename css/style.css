@@ -275,3 +275,19 @@
     background: var(--dark);
     border-color: var(--primary);
 }
+
+.team-member {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+}
+.sss {
+    margin: 0 10px; /* 增加文字之間的空格 */
+}
+.team-member img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px; /* 增加圖片和文字之間的空格 */
+}
